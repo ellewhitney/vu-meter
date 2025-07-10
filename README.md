@@ -26,7 +26,7 @@ For each channel the following components are needed:
 - 1x 1x4 0.1" Header Pin
 - 1x Custom PCB
 - 2x Panel Mount 5.5mm x 2.1mm DC Female Barrel Jacks
-- 1x 9V DC Power Supply
+- 1x 12V DC Power Supply
 
 and the following printed parts:
 - [Body](../main/STLs/meterBox.STL)
